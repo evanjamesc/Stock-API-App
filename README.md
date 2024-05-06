@@ -21,6 +21,7 @@ To run the stock news application, follow these steps:
 - Enter your own email address and password for the account at which you would like to be notified of stock price changes.
 - By default, this application tracks the stock of Apple Inc., change this to your desired stock.
 - Run the application to recieve your price change and news summary in your inbox.
+- **Note:** If you are unfamiliar with using Twilio or your own API keys, [contact](#Contact) Evan Christianson at the email provided below for a live demo.
 
 ## Technologies Used
 - Twilio, Alphavantage API, NewsAPI, and Python 3, including the following libraries/modules:
