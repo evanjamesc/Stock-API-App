@@ -16,11 +16,10 @@ To run the stock news application, follow these steps:
 - Run "main.py" locally on your machine
 
 ## How to Use
-- Launch the application using the instructions above.
 - Enter your own Twilio account SID and authorization token for SMS alert functionality.
 - Enter your own email address and password for the account at which you would like to be notified of stock price changes.
 - By default, this application tracks the stock of Apple Inc., change this to your desired stock.
-- Run the application to recieve your price change and news summary in your inbox.
+- Run the application using the instructions above to recieve your price change and news summary in your inbox.
 - **Note:** If you are unfamiliar with using Twilio or your own API keys, [contact](#Contact) Evan Christianson at the email provided below for a live demo.
 
 ## Technologies Used
