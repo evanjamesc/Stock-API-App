@@ -17,7 +17,7 @@ To run the stock news application, follow these steps:
 
 ## How to Use
 - Launch the application using the instructions above.
-- Enter your own Twilio account SID and authorization token for text functionality.
+- Enter your own Twilio account SID and authorization token for SMS alert functionality.
 - Enter your own email address and password for the account at which you would like to be notified of stock price changes.
 - By default, this application tracks the stock of Apple Inc., change this to your desired stock.
 - Run the application to recieve your price change and news summary in your inbox.
