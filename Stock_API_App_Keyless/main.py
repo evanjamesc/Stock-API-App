@@ -14,7 +14,7 @@ TWILIO_SID = "Your Twilio account SID goes here"
 TWILIO_AUTH_TOKEN = "Your Twilio authorization token goes here"
 
 # Email functionality
-EMAIL_ADDRESS = "mytrash995@gmail.com"
+EMAIL_ADDRESS = "yourEmail@email.com"
 EMAIL_PASSWORD = "Secret - use your own email and password"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
